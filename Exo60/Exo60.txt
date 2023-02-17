@@ -1,0 +1,5 @@
+10 pointeurs directs : 10*2ko = 20ko
+1 pointeurs à un niveau d'indiretion = 2⁹ * 2ko
+2 pointeurs à 2 niveaux d'indirection = 2 * 2⁹ * 2⁹ * 2ko
+2 pointeurs à 3 niveaux d'indirection = 2 * 2⁹ * 2⁹ * 2⁹ * 2ko
+= 5 3792 0532 ~ 5Go
